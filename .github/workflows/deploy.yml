@@ -20,11 +20,8 @@ jobs:
       with:
         hugo-version: 'latest'
 
-    # Step 3: Navigate to the subfolder
-    - name: Navigate to Hugo site directory
-      run: cd 2024  # Replace with your actual subfolder name
-
-    # Step 4: Install dependencies (if any)
+    
+    # Step 3: Install dependencies (if any)
     - name: Install dependencies
       run: |
         # Install Node.js if using npm/yarn for dependencies
@@ -32,11 +29,13 @@ jobs:
           npm install
         fi
 
-    # Step 5: Build the Hugo site
+    # Step 4: Build the Hugo site
     - name: Build the site
-      run: hugo --minify
-
-    # Step 6: Deploy to GitHub Pages
+      run: |
+        cd 2024  # Change to the Hugo site subdirectory
+        hugo --minify  
+            
+    # Step 5: Deploy to GitHub Pages
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
