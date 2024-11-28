@@ -1,0 +1,45 @@
+name: Deploy Hugo site to GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Trigger on pushes to the 'main' branch
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    # Step 1: Checkout the repository
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    # Step 2: Set up Hugo
+    - name: Setup Hugo
+      uses: peaceiris/actions-hugo@v2
+      with:
+        hugo-version: 'latest'
+
+    # Step 3: Navigate to the subfolder
+    - name: Navigate to Hugo site directory
+      run: cd 2024  # Replace with your actual subfolder name
+
+    # Step 4: Install dependencies (if any)
+    - name: Install dependencies
+      run: |
+        # Install Node.js if using npm/yarn for dependencies
+        if [ -f package.json ]; then
+          npm install
+        fi
+
+    # Step 5: Build the Hugo site
+    - name: Build the site
+      run: hugo --minify
+
+    # Step 6: Deploy to GitHub Pages
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: 2024/public  # Adjust to include the subfolder
+        publish_branch: gh-pages

@@ -1,0 +1,30 @@
+baseurl = "https://coil-ufsm-inacap.github.io/2024"
+title = "COIL Brasil-Chile 2024"
+theme = "portfolio"
+languageCode = "en-us"
+
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "default"
+  description = "COIL UFSM INACAP"
+  copyright = "&copy;2024"
+  sidebarAbout = [
+    "🇧🇷 Galeria de projetos de software desenvolvidos em Collaborative Online International Learning (COIL) entre a Universidade Federal de Santa Maria (UFSM), Brasil, e o Instituto Nacional de Capacitación Profesional de Chile (INACAP), Chile.",
+    "🇨🇱 Galería de proyectos de software desarrollados en Collaborative Online International Learning (COIL) entre la Universidade Federal de Santa Maria (UFSM), Brasil, y el Instituto Nacional de Capacitación Profesional de Chile (INACAP), Chile.",
+
+  ]
+
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "Sobre"
+  url = "about/"
+
+
