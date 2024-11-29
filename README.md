@@ -9,7 +9,7 @@ The site is built using Hugo and a portfolio template available in: https://gith
 ## How to update your group's page?
 
 - Fork this project
-- Locate your group's folder inside the [content/portfolio](content/portfolio/) folder
+- Locate your group's folder inside the [2024/content/portfolio](2024/content/portfolio/) folder
 - Replace the temporary images in your group's folder with updated images
   - The main image in your project page should be an animated gif or an embedded video showing your project's features
 - Edit the index.md page in your group's folder: fill in the missing links and information, replace image file names to point to new images
