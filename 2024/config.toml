@@ -1,4 +1,4 @@
-baseurl = "https://coil-ufsm-inacap.github.io/2024"
+baseurl = "https://coil-ufsm-inacap.github.io/2024/"
 title = "COIL Brasil-Chile 2024"
 theme = "portfolio"
 languageCode = "en-us"
