@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.349366"
-image = "aguardando.png"
+image = "mockuper-menuz.png"
 title = "Menuz"
 weight = 4
 +++
