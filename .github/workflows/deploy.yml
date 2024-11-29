@@ -59,7 +59,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://coil-ufsm-inacap.github.io/2024/"
           cd ..
           mkdir /tmp/path          
           cp -r 2024/public /tmp/path/2024
