@@ -59,11 +59,14 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"          
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+          cd ..
+          mkdir /tmp/path          
+          cp -r 2024/public /tmp/path/2024
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./2024/public
+          path: ./tmp/path
 
   # Deployment job
   deploy:
