@@ -46,4 +46,3 @@ jobs:
         publish_dir: 2024/public  # Adjust to include the subfolder
         publish_branch: gh-pages
         destination_dir: 2024
-        clean: true  # Remove all files in gh-pages before deploying
