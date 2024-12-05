@@ -19,7 +19,7 @@ Tradutor e interpretador de cardápios / Traductor e intérprete de menús
 
 🇨🇱 O Menuz é um aplicativo Web que permite aos usuários fazer upload de uma foto de um cardápio para traduzir o conteúdo e receber uma breve descrição sobre o sabor e os ingredientes dos pratos. Além de superar barreiras linguísticas, a aplicação fornece um contexto cultural e culinário, ajudando viajantes e imigrantes a fazer escolhas informadas em restaurantes, enriquecendo sua experiência gastronômica.
 
-Apresentação / presentación: preencha aqui o link para slides da apresentação final do projeto
+Apresentação / presentación: [Link](https://docs.google.com/presentation/d/1yjYb7Ij8HtfcS6D1ixhdPGn1bdyxIkguMcnUzK-rJ08/edit#slide=id.p)
 
 ---
 
@@ -48,8 +48,8 @@ Roteiro para testes / guion para pruebas: [Link](https://docs.google.com/forms/d
 
 ##### Outros links
 
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
+- [Protótipo Inicial](https://www.figma.com/design/pWDpORfqqWRBRzlXvbXQB8/PS2-MyMenu?node-id=0-1&t=mVIxXVE1sQvk5TpP-1)
+- [Arquitetura](https://www.figma.com/board/v1btaJf9OBQshaci5NPnrK/PS2-Archtecture-MyMenu?t=mVIxXVE1sQvk5TpP-0)
 
 ---
 
