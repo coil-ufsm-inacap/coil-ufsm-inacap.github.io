@@ -2,7 +2,7 @@
 
 ![Built with Hugo](https://img.shields.io/badge/built%20with-Hugo-blueviolet)
 
-This is a gallery of software projects developed in the Collaborative Online International Learning (COIL) between Universidade Federal de Santa Maria (UFSM), Brasil, and Instituto Nacional de Capacitación Profesional de Chile (INACAP), Chile.
+This gallery showcases software projects developed through the Collaborative Online International Learning (COIL) initiative between the Universidade Federal de Santa Maria (UFSM), Brazil, and the Instituto Nacional de Capacitación Profesional (INACAP), Chile.
 
 The site is built using Hugo and a portfolio template available in: https://github.com/kishaningithub/hugo-creative-portfolio-theme.git
 
