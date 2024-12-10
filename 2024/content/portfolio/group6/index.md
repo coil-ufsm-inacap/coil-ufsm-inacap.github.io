@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.357218"
-image = "aguardando.png"
+image = "imagen-pag.png"
 title = "BC Finances"
 weight = 6
 +++
@@ -12,7 +12,7 @@ Gerenciador pessoal de finanças / Gestor personal de finanzas
 
 <!--more-->
 
-![](moho_follow_through2.gif)
+![](imagen-principal.png)
 
 
 ## Descrição / Descripción
