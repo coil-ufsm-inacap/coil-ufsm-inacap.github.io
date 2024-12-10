@@ -48,7 +48,7 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 
 ##### Repositórios
 
-- repositório backend
+- https://github.com/Luissiqueri/projetoDeSoftware (private)
 - repositório frontend
 
 ##### Outros links:
