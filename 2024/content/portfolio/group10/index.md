@@ -17,11 +17,11 @@ Sistema de Gestão de Resíduos de Mineração / Sistema de gestión de residuos
 
 ## Descrição / Descripción
 
-🇧🇷 Uma aplicação web para gerir resíduos gerados nas operações de mineração. Permitirá que os usuários registrem dados, como tipo de resíduo (perigoso ou não perigoso), quantidade, data e método de disposição final. Relatórios serão gerados para garantir o cumprimento das normas.
+🇧🇷 Uma aplicação web para gerir resíduos gerados nas operações de mineração. Ela permitirá que os usuários registrem, editem e deletam dados relacionados a resíduos e localizações. Os resíduos podem incluir informações como o tipo (perigoso ou não perigoso), quantidade, data de geração, método de disposição final e seu estado (pendente, em processo ou concluído). O sistema também possui uma funcionalidade de autenticação simples para garantir segurança no acesso. O objetivo principal da aplicação é apoiar mineradores na gestão eficiente de resíduos, facilitando o controle sobre a quantidade e o destino dos resíduos gerados durante o processo de mineração. Além disso, a aplicação oferece a possibilidade de gerenciar a localização onde os resíduos estão armazenados ou dispostos, tanto quanto adicionar novas localizações com um leaflet integrado ou as editar.
 
 
 
-🇨🇱 Uma aplicação web para gerir resíduos gerados nas operações de mineração. Permitirá que os usuários registrem dados, como tipo de resíduo (perigoso ou não perigoso), quantidade, data e método de disposição final. Relatórios serão gerados para garantir o cumprimento das normas.
+🇨🇱 Uma aplicação web para gerir resíduos gerados nas operações de mineração. Ela permitirá que os usuários registrem, editem e deletam dados relacionados a resíduos e localizações. Os resíduos podem incluir informações como o tipo (perigoso ou não perigoso), quantidade, data de geração, método de disposição final e seu estado (pendente, em processo ou concluído). O sistema também possui uma funcionalidade de autenticação simples para garantir segurança no acesso. O objetivo principal da aplicação é apoiar mineradores na gestão eficiente de resíduos, facilitando o controle sobre a quantidade e o destino dos resíduos gerados durante o processo de mineração. Além disso, a aplicação oferece a possibilidade de gerenciar a localização onde os resíduos estão armazenados ou dispostos, tanto quanto adicionar novas localizações com um leaflet integrado ou as editar.
 
 Apresentação / presentación: preencha aqui o link para slides da apresentação final do projeto
 
@@ -41,9 +41,9 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 
 ##### Tecnologias / Tecnologías
 
-- Front-end: preencha aqui as tecnologias usadas no desenvolvimento do front-end, por exemplo, JavaScript, ReactJS, HTML
-- Back-end: preencha aqui as tecnologias usadas no desenvolvimento do back-end, por exemplo: Java, Spring Boot, PostgreSQL
-- Deploy: preencha aqui os serviços usados no deploy, por exemplo: Vercel/front, AWS/back
+- Front-end: HTML, CSS, JavaScript, Leaflet.
+- Back-end: Python com Django, integração com banco de dados remoto utilizando MYSQL.connector, MySQL.
+- Deploy: AWS (para o back-end) e Koyeb (para o front-end).
 
 ##### Repositórios
 
