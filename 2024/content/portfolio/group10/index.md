@@ -50,12 +50,6 @@ Formulário de avaliação / Formulario de evaluación: https://forms.gle/2dESWV
 
 - Frontend/backend: https://github.com/joaofrigo/projeto-de-software-2
 
-
-##### Outros links:
-
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-
 ---
 
 ## Equipe / Equipo
