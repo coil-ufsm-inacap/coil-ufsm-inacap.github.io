@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.368453"
-image = "aguardando.png"
+image = "Imagem_nova.jpeg"
 title = "SGRM"
 weight = 9
 +++
