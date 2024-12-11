@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.368453"
-image = "mockuper.jpeg"
+image = "mockuper.png"
 title = "SGRM"
 weight = 9
 +++
