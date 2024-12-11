@@ -12,7 +12,7 @@ Sistema de Gestão de Resíduos de Mineração / Sistema de gestión de residuos
 
 <!--more-->
 
-![](Recording_2024-12-10_at_22.12.20.gif)
+![](Recording_gif.gif)
 
 
 ## Descrição / Descripción
