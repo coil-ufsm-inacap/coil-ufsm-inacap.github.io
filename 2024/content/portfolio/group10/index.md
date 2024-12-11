@@ -29,8 +29,7 @@ Apresentação / presentación: preencha aqui o link para slides da apresentaç�
 
 ## Acesso / Acceso
 
-Link: 
-http://18.232.148.240:8000/
+Link: https://perfect-mariquilla-sou-aluno-ab69e17a.koyeb.app/
 
 Roteiro para testes / guion para pruebas: 
 preencha aqui o link para o roteiro de testes (segunda fase)
@@ -48,10 +47,11 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 
 ##### Repositórios
 
-- Backend: https://github.com/joaofrigo/projeto-de-software-2
-- repositório frontend
+- Frontend/backend: https://github.com/joaofrigo/projeto-de-software-2
+
 
 ##### Outros links:
+
 - preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
 - preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
 
