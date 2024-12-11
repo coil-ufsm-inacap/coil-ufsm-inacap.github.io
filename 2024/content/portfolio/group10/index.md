@@ -31,10 +31,9 @@ Apresentação / presentación: preencha aqui o link para slides da apresentaç�
 
 Link: https://perfect-mariquilla-sou-aluno-ab69e17a.koyeb.app/
 
-Roteiro para testes / guion para pruebas: 
-preencha aqui o link para o roteiro de testes (segunda fase)
+Roteiro para testes / Guion para pruebas: https://docs.google.com/document/d/1KnMGlAd5dX4a0weeNiPdFUHrbNJRlwpcj-_up5VMTw0/edit?usp=sharing
 
-Formulário de avaliação / Formulario de evaluación:
+Formulário de avaliação / Formulario de evaluación: https://forms.gle/2dESWVfu3E6b5a999
 
 
 ---
