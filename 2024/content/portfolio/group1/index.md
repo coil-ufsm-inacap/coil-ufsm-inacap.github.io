@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.334417"
-image = "aguardando.png"
+image = ![image](https://github.com/user-attachments/assets/664e1b81-8312-42ae-834b-11b1a0921c29)
 title = "MyGuide"
 weight = 1
 +++
@@ -12,14 +12,10 @@ Guia de turismo local / Guía de turismo local
 
 <!--more-->
 
-![](moho_follow_through2.gif)
-
 
 ## Descrição / Descripción
 
 🇧🇷 Uma plataforma que auxilia o usuário a descobrir atrativos menos  conhecidos na cidade/país onde estiver.
-
-
 
 🇨🇱 Uma plataforma que auxilia o usuário a descobrir atrativos menos  conhecidos na cidade/país onde estiver.
 
@@ -30,10 +26,10 @@ Apresentação / presentación: preencha aqui o link para slides da apresentaç�
 ## Acesso / Acceso
 
 Link: 
-https://my-guide-front.vercel.app/
+https://myguide-app.vercel.app/
 
 Roteiro para testes / guion para pruebas: 
-preencha aqui o link para o roteiro de testes (segunda fase)
+https://docs.google.com/document/d/1CdJzdLplWGxLCtS8tQFa296udKZOOa6NkqxPQsJMk04/edit?usp=sharing
 
 
 ---
@@ -42,14 +38,15 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 
 ##### Tecnologias / Tecnologías
 
-- Front-end: preencha aqui as tecnologias usadas no desenvolvimento do front-end, por exemplo, JavaScript, ReactJS, HTML
-- Back-end: preencha aqui as tecnologias usadas no desenvolvimento do back-end, por exemplo: Java, Spring Boot, PostgreSQL
-- Deploy: preencha aqui os serviços usados no deploy, por exemplo: Vercel/front, AWS/back
+- Front-end: Flutter/ Dart
+- Back-end: NestJs/ Prisma/ Postgres/ Docker
+- Deploy: Hostinger
 
 ##### Repositórios
 
-- repositório backend
-- repositório frontend
+- [repositório backend](https://github.com/postrenan/MyGuide-Back)
+- [repositório frontend](https://github.com/postrenan/MyGuide-Front)
+- https://github.com/postrenan/MyGuide-Mobile
 
 ##### Outros links:
 - preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
