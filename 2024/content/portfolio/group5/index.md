@@ -41,7 +41,7 @@ https://forms.gle/Pt4b9hFaURy3CqmX7
 ##### Tecnologias / Tecnologías
 
 - Front-end: Flutter, Dart
-- Back-end: preencha aqui as tecnologias usadas no desenvolvimento do back-end, por exemplo: Java, Spring Boot, PostgreSQL
+- Back-end: Django, Django Rest Framework, django-cors-headers, MySQL
 - Deploy: AWS/front, AWS/back
 
 ##### Repositórios
