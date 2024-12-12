@@ -31,7 +31,8 @@ Apresentação / Presentación: preencha aqui o link para slides da apresentaç�
 ## Acesso / Acceso
 
 Link: 
-http://ec2-23-22-14-225.compute-1.amazonaws.com
+http://ec2-23-22-14-225.compute-1.amazonaws.com:3000 / http://23.22.14.225:3000
+Horários de disponibilidade / Horas de disponibilidad: 13:00 - 14:00 hrs, 17:00 - 18:00 hrs, 20:00 - 21:00 hrs
 
 Roteiro para testes / Guión para pruebas: 
 preencha aqui o link para o roteiro de testes (segunda fase)
