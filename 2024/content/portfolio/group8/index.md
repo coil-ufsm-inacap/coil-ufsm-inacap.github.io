@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.360769"
-image = "aguardando.png"
+image = "mockuper.png"
 title = "QuickMed"
 weight = 7
 +++
@@ -30,10 +30,10 @@ Apresentação / presentación: preencha aqui o link para slides da apresentaç�
 ## Acesso / Acceso
 
 Link: 
-http://ec2-44-219-104-32.compute-1.amazonaws.com:8080
+http://ec2-44-219-104-32.compute-1.amazonaws.com
 
 Roteiro para testes / guion para pruebas: 
-preencha aqui o link para o roteiro de testes (segunda fase)
+https://docs.google.com/document/d/1zd-3QL6N6RiHjGJ002Q59I_VtmbDSVfW5z9yW_bTTRs/edit?usp=sharing
 
 
 ---
@@ -42,20 +42,13 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 
 ##### Tecnologias / Tecnologías
 
-- Front-end: preencha aqui as tecnologias usadas no desenvolvimento do front-end, por exemplo, JavaScript, ReactJS, HTML
-- Back-end: preencha aqui as tecnologias usadas no desenvolvimento do back-end, por exemplo: Java, Spring Boot, PostgreSQL
-- Deploy: preencha aqui os serviços usados no deploy, por exemplo: Vercel/front, AWS/back
+- Front-end: HTML, CSS, JavaScript, LeafLet, Bootstrap, OpenStreetMap;
+- Back-end: Python, Flask, MySQL;
+- Deploy: AWS/front, AWS/back, Nginx, Gunicorn;
 
 ##### Repositórios
 
-- repositório backend
-- repositório frontend
-
-##### Outros links:
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-
----
+https://github.com/lipesanfelice/quickmed/tree/main
 
 ## Equipe / Equipo
 
