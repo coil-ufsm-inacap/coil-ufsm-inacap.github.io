@@ -17,11 +17,10 @@ Rede social para estudo / Red social para estudio
 
 ## Descrição / Descripción
 
-🇧🇷 Study.io permite que os usuários, por meio de um feed comum ou de uma comunidade, compartilhem seus resumos, exercícios e/ou atividades de estudos. Além disso, também poderão votar e discutir sobre os conteúdos postados por outros utilizadores da plataforma. 
+🇧🇷 Study.io é uma plataforma que permite aos usuários, por meio de um feed comum, que compartilhem seus resumos, exercícios e/ou atividades de estudos. Além disso, também poderão votar e discutir sobre os conteúdos postados por outros utilizadores da plataforma. 
 
 
-
-🇨🇱 Study.io permite que os usuários, por meio de um feed comum ou de uma comunidade, compartilhem seus resumos, exercícios e/ou atividades de estudos. Além disso, também poderão votar e discutir sobre os conteúdos postados por outros utilizadores da plataforma. 
+🇨🇱 Study.io es una plataforma que permite a los usuarios compartir sus resúmenes, ejercicios y actividades de estudio a través de un feed común. Además, ofrece la posibilidad de votar y discutir sobre los contenidos publicados por otros usuarios de la plataforma. 
 
 Apresentação / presentación: preencha aqui o link para slides da apresentação final do projeto
 
@@ -41,9 +40,9 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 
 ##### Tecnologias / Tecnologías
 
-- Front-end: preencha aqui as tecnologias usadas no desenvolvimento do front-end, por exemplo, JavaScript, ReactJS, HTML
+- Front-end: Flutter, Dart
 - Back-end: preencha aqui as tecnologias usadas no desenvolvimento do back-end, por exemplo: Java, Spring Boot, PostgreSQL
-- Deploy: preencha aqui os serviços usados no deploy, por exemplo: Vercel/front, AWS/back
+- Deploy: AWS/front, AWS/back
 
 ##### Repositórios
 
