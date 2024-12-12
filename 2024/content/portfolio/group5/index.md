@@ -31,7 +31,7 @@ Apresentação / presentación: preencha aqui o link para slides da apresentaç�
 Link: [http://54.211.29.238/](http://54.211.29.238/)
 
 Roteiro para testes / guion para pruebas: 
-preencha aqui o link para o roteiro de testes (segunda fase)
+https://forms.gle/Pt4b9hFaURy3CqmX7
 
 
 ---
