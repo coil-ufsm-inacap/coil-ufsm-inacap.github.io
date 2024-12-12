@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.334417"
-image = ![image](https://github.com/user-attachments/assets/664e1b81-8312-42ae-834b-11b1a0921c29)
+image = "aguardando.png"
 title = "MyGuide"
 weight = 1
 +++
