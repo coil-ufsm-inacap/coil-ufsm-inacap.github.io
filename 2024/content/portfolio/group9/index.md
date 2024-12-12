@@ -21,9 +21,9 @@ Aplicativo para gerenciamento de repúblicas de estudantes / Aplicación para ge
 
 
 
-🇨🇱 Muitos estudantes, quando entram na faculdade, precisam mudar de cidade para fazer o curso que desejam. Por conta disso, muitos deles precisam dividir moradia com outros estudantes. Nesse sentido, existem as chamadas “repúblicas” que se tratam de casas ou apartamentos que vários estudantes dividem. Como a maioria dos estudantes são jovens e estão adentrando a vida adulta, muitos deles possuem uma renda mensal baixa e ainda estão aprendendo a se organizar financeiramente. Portanto, propõe-se a criação de um aplicativo móvel e uma aplicação web para administração de uma república, visando ajudar na organização financeira e no cotidiano da república.
+🇨🇱 Muchos estudiantes, al ingresar a la universidad, necesitan mudarse de ciudad para cursar la carrera que desean. Por esta razón, muchos de ellos deben compartir vivienda con otros estudiantes. En este contexto, existen las llamadas "repúblicas", que son casas o apartamentos compartidos por varios estudiantes. Dado que la mayoría de los estudiantes son jóvenes y están iniciando su vida adulta, muchos tienen ingresos mensuales bajos y aún están aprendiendo a organizarse financieramente. Por lo tanto, se propone la creación de una aplicación móvil y una aplicación web para la gestión de una república, con el objetivo de ayudar en la organización financiera y en la vida cotidiana de la misma.
 
-Apresentação / presentación: preencha aqui o link para slides da apresentação final do projeto
+Apresentação / presentación: 
 
 ---
 
@@ -34,7 +34,7 @@ Link:
 - Link para aplicação web:  https://rep-hjgthkccgdh0auft.westus3-01.azurewebsites.net
 
 Roteiro para testes / guion para pruebas: 
-preencha aqui o link para o roteiro de testes (segunda fase)
+https://forms.gle/v6FDUznizvq89hZcA
 
 
 ---
@@ -43,20 +43,14 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 
 ##### Tecnologias / Tecnologías
 
-- Front-end: preencha aqui as tecnologias usadas no desenvolvimento do front-end, por exemplo, JavaScript, ReactJS, HTML
-- Back-end: preencha aqui as tecnologias usadas no desenvolvimento do back-end, por exemplo: Java, Spring Boot, PostgreSQL
-- Deploy: preencha aqui os serviços usados no deploy, por exemplo: Vercel/front, AWS/back
+- Front-end: HTML, CSS, javascript, bootstrap
+- Back-end: MySQL, Django, python
+- Deploy: Microsoft Azure
 
 ##### Repositórios
 
-- repositório backend
-- repositório frontend
+- repositório backend y frontend: https://github.com/menet58/proyecto-republica.git
 
-##### Outros links:
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-
----
 
 ## Equipe / Equipo
 
