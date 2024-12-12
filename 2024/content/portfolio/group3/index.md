@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.345865"
-image = "aguardando.png"
+image = "thumbnail.png"
 title = "MinGuard"
 weight = 3
 +++
@@ -12,7 +12,7 @@ Registro e tratamento de incidentes reportados em ambientes de mineração / Reg
 
 <!--more-->
 
-![](moho_follow_through2.gif)
+![](ticket.gif)
 
 
 ## Descrição / Descripción
@@ -21,9 +21,10 @@ Registro e tratamento de incidentes reportados em ambientes de mineração / Reg
 
 
 
-🇨🇱 Registro e tratamento de incidentes reportados em ambientes de mineração
+🇨🇱 Registro y tratamiento de incidentes reportados en entornos de minería
 
-Apresentação / presentación: preencha aqui o link para slides da apresentação final do projeto
+Apresentação / presentación: 
+Coming soon
 
 ---
 
@@ -33,7 +34,7 @@ Link:
 https://minguard.netlify.app/login
 
 Roteiro para testes / guion para pruebas: 
-preencha aqui o link para o roteiro de testes (segunda fase)
+[link](https://docs.google.com/document/d/1TR227UmYgA-8I97WvnaMs2oBpyiqYHvk7aeb_0v6OI8/edit?usp=sharing)
 
 
 ---
@@ -42,18 +43,18 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 
 ##### Tecnologias / Tecnologías
 
-- Front-end: preencha aqui as tecnologias usadas no desenvolvimento do front-end, por exemplo, JavaScript, ReactJS, HTML
-- Back-end: preencha aqui as tecnologias usadas no desenvolvimento do back-end, por exemplo: Java, Spring Boot, PostgreSQL
-- Deploy: preencha aqui os serviços usados no deploy, por exemplo: Vercel/front, AWS/back
+- Front-end: Javascript, ReactJS
+- Back-end: Java, Spring Boot, PostgreSQL, Docker
+- Deploy: Netlify (front-end), AWS (back-end)
 
 ##### Repositórios
 
-- repositório backend
-- repositório frontend
+- Repositório back-end: [link](https://github.com/brasil-chile-connection/minguard-be)
+- Repositório front-end: [link](https://github.com/brasil-chile-connection/minguard-fe)
 
 ##### Outros links:
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
+- Repositório app: [link](https://github.com/brasil-chile-connection/minguard-app)
+- Diagrama ERD: [link](https://github.com/brasil-chile-connection/minguard-be/tree/main/src/main/resources/docs)
 
 ---
 
