@@ -25,7 +25,7 @@ Além de visualizar pontos de interesse existentes, o usuário pode criar e pers
 🇨🇱 Uma plataforma de mapas interativos desenvolvida para facilitar a descoberta de pontos de interesse, como locais turísticos, paisagens e estabelecimentos, ao redor do usuário. 
 Além de visualizar pontos de interesse existentes, o usuário pode criar e personalizar novos pontos. A plataforma também possibilita a interação com pontos criados por outros usuários, promovendo o compartilhamento de informações e uma experiência colaborativa.
 
-Apresentação / presentación: preencha aqui o link para slides da apresentação final do projeto
+Apresentação / presentación: https://docs.google.com/presentation/d/1d9z-aY2YyeWO5m-njqrX5akXzFFcyuPYGBgD3t9OvgM/edit?usp=sharing
 
 ---
 
@@ -35,7 +35,7 @@ Link:
 https://martinrenz.github.io/Geotrip-Front/
 
 Roteiro para testes / guion para pruebas: 
-preencha aqui o link para o roteiro de testes (segunda fase)
+https://docs.google.com/document/d/1Kz3hWp6iZx_zQaEGs7ZAfiRjw3LgnS2I2cTFgh9PNm0/edit?usp=sharing
 
 
 ---
@@ -44,18 +44,14 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 
 ##### Tecnologias / Tecnologías
 
-- Front-end: preencha aqui as tecnologias usadas no desenvolvimento do front-end, por exemplo, JavaScript, ReactJS, HTML
-- Back-end: preencha aqui as tecnologias usadas no desenvolvimento do back-end, por exemplo: Java, Spring Boot, PostgreSQL
-- Deploy: preencha aqui os serviços usados no deploy, por exemplo: Vercel/front, AWS/back
+- Front-end: JavaScript, ReactJS
+- Back-end: NodeJS, PostgreSQL
+- Deploy: GitHub Pages, Render
 
 ##### Repositórios
 
-- repositório backend
-- repositório frontend
-
-##### Outros links:
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
+- [repositório backend](https://github.com/MartinRenz/geotrip-api)
+- [repositório frontend](https://github.com/MartinRenz/Geotrip-Front)
 
 ---
 
