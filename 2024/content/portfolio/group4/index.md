@@ -11,6 +11,8 @@ Tradutor e interpretador de cardápios / Traductor e intérprete de menús
 
 <!--more-->
 
+![image](https://github.com/user-attachments/assets/4f016d4f-e9ec-4795-8e61-494142eabc6e)
+
 ![](menuz-anim.gif)
 
 ## Descrição / Descripción
