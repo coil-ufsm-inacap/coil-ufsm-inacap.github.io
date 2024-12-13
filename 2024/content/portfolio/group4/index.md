@@ -29,6 +29,8 @@ Apresentação / presentación: [Link](https://docs.google.com/presentation/d/1y
 
 App Menuz: [Link](https://ai-menuz.vercel.app/)
 
+![image](https://github.com/user-attachments/assets/08d53400-2cd8-4130-8bed-66d9dcc55a69)
+
 Roteiro para testes / guion para pruebas: [Link](https://docs.google.com/forms/d/e1FAIpQLSdxofVBbKDtLei-Ig36MK9k0c1P10BRSumcWJxycwggbDwRTA/viewform?usp=header)
 
 ---
