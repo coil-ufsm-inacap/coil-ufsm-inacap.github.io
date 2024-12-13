@@ -13,13 +13,15 @@ Tradutor e interpretador de cardápios / Traductor e intérprete de menús
 
 ![image](https://github.com/user-attachments/assets/4f016d4f-e9ec-4795-8e61-494142eabc6e)
 
+![image](https://github.com/user-attachments/assets/08d53400-2cd8-4130-8bed-66d9dcc55a69)
+
 ![](menuz-anim.gif)
 
 ## Descrição / Descripción
 
 🇧🇷 O Menuz é um aplicativo Web que permite aos usuários fazer upload de uma foto de um cardápio para traduzir o conteúdo e receber uma breve descrição sobre o sabor e os ingredientes dos pratos. Além de superar barreiras linguísticas, a aplicação fornece um contexto cultural e culinário, ajudando viajantes e imigrantes a fazer escolhas informadas em restaurantes, enriquecendo sua experiência gastronômica.
 
-🇨🇱 O Menuz é um aplicativo Web que permite aos usuários fazer upload de uma foto de um cardápio para traduzir o conteúdo e receber uma breve descrição sobre o sabor e os ingredientes dos pratos. Além de superar barreiras linguísticas, a aplicação fornece um contexto cultural e culinário, ajudando viajantes e imigrantes a fazer escolhas informadas em restaurantes, enriquecendo sua experiência gastronômica.
+🇨🇱 Menuz es una aplicación web que permite a los usuarios subir una foto de un menú para traducir el contenido y recibir una breve descripción sobre el sabor y los ingredientes de los platos. Además de superar las barreras del idioma, la aplicación proporciona un contexto cultural y culinario, ayudando a viajeros e inmigrantes a tomar decisiones informadas sobre restaurantes, enriqueciendo su experiencia gastronómica.
 
 Apresentação / presentación: [Link](https://docs.google.com/presentation/d/1yjYb7Ij8HtfcS6D1ixhdPGn1bdyxIkguMcnUzK-rJ08/edit#slide=id.p)
 
@@ -29,7 +31,8 @@ Apresentação / presentación: [Link](https://docs.google.com/presentation/d/1y
 
 App Menuz: [Link](https://ai-menuz.vercel.app/)
 
-![image](https://github.com/user-attachments/assets/08d53400-2cd8-4130-8bed-66d9dcc55a69)
+🇧🇷 Sugerimos ir até um restaurante para testar nossa aplicação! Se não for possível, você pode encontrar imagens em sites como [Pinterest](https://uk.pinterest.com/search/pins/?q=food%20menu%20ideas), [Pexels](https://www.pexels.com/search/menu/) ou [Unsplash](https://unsplash.com/s/photos/menu)
+🇨🇱 ¡Te sugerimos ir a un restaurante para probar nuestra aplicación! Si eso no es posible, puedes encontrar imágenes en sitios como [Pinterest](https://uk.pinterest.com/search/pins/?q=food%20menu%20ideas), [Pexels](https://www.pexels.com/search/menu/) ou [Unsplash](https://unsplash.com/s/photos/menu)
 
 Roteiro para testes / guion para pruebas: [Link](https://docs.google.com/forms/d/e1FAIpQLSdxofVBbKDtLei-Ig36MK9k0c1P10BRSumcWJxycwggbDwRTA/viewform?usp=header)
 
