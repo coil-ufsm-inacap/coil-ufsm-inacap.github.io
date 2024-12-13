@@ -9,9 +9,6 @@ weight = 4
 
 Tradutor e interpretador de cardápios / Traductor e intérprete de menús
 
-<!--more-->
-
-
 ![gif](gif-atualizado.gif)
 
 ## Descrição / Descripción
