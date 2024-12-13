@@ -7,7 +7,10 @@ title = "Menuz"
 weight = 4
 +++
 
+
 Tradutor e interpretador de cardápios / Traductor e intérprete de menús
+
+<!--more-->
 
 ![demonstrativo](gif-atualizado.gif)
 
