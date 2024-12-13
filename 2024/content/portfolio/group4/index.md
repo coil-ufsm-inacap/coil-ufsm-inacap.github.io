@@ -12,7 +12,7 @@ Tradutor e interpretador de cardápios / Traductor e intérprete de menús
 <!--more-->
 
 
-![image](gif-atualizado.gif)
+![gif](gif-atualizado.gif)
 
 ## Descrição / Descripción
 
