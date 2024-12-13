@@ -37,7 +37,7 @@ Roteiro para testes / guion para pruebas: [Link](https://docs.google.com/forms/d
 
 - Front-end: NextJS, Typescript, MUIComponents.
 - Back-end: Não foi utilizado. Integração feita diretamente do FrontEnd.
-- AIs: OCR, GoogleGenerative (LLama).
+- AIs: OCR, GoogleGenerative (Gemini), GoogleTranslate.
 - Deploy: Vercel.
 - Banco de Dados: AWS S3 Bucket.
 
