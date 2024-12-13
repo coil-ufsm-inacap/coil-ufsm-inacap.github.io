@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.334417"
-image = "aguardando.png"
+image = "aguardando.jpeg"
 title = "MyGuide"
 weight = 1
 +++
