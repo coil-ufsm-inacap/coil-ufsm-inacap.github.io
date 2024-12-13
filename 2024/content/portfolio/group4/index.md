@@ -32,6 +32,7 @@ Apresentação / presentación: [Link](https://docs.google.com/presentation/d/1y
 App Menuz: [Link](https://ai-menuz.vercel.app/)
 
 🇧🇷 Sugerimos ir até um restaurante para testar nossa aplicação! Se não for possível, você pode encontrar imagens em sites como [Pinterest](https://uk.pinterest.com/search/pins/?q=food%20menu%20ideas), [Pexels](https://www.pexels.com/search/menu/) ou [Unsplash](https://unsplash.com/s/photos/menu)
+
 🇨🇱 ¡Te sugerimos ir a un restaurante para probar nuestra aplicación! Si eso no es posible, puedes encontrar imágenes en sitios como [Pinterest](https://uk.pinterest.com/search/pins/?q=food%20menu%20ideas), [Pexels](https://www.pexels.com/search/menu/) ou [Unsplash](https://unsplash.com/s/photos/menu)
 
 Roteiro para testes / guion para pruebas: [Link](https://docs.google.com/forms/d/e1FAIpQLSdxofVBbKDtLei-Ig36MK9k0c1P10BRSumcWJxycwggbDwRTA/viewform?usp=header)
