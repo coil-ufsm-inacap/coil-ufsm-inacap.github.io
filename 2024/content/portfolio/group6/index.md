@@ -35,7 +35,7 @@ http://ec2-23-22-14-225.compute-1.amazonaws.com:3000 / http://23.22.14.225:3000
 Horários de disponibilidade / Horas de disponibilidad: 13:00 - 14:00 hrs, 17:00 - 18:00 hrs, 20:00 - 21:00 hrs
 
 Roteiro para testes / Guión para pruebas: 
-preencha aqui o link para o roteiro de testes (segunda fase)
+(https://docs.google.com/document/d/1h1TuB-Go850RPsUcxMfp7R5XUE6-hFzyYuw9xAeo2Sk/edit?tab=t.0)
 
 
 ---
