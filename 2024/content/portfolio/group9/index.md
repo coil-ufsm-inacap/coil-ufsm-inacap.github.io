@@ -24,18 +24,20 @@ Aplicativo para gerenciamento de repúblicas de estudantes / Aplicación para ge
 🇨🇱 Muchos estudiantes, al ingresar a la universidad, necesitan mudarse de ciudad para cursar la carrera que desean. Por esta razón, muchos de ellos deben compartir vivienda con otros estudiantes. En este contexto, existen las llamadas "repúblicas", que son casas o apartamentos compartidos por varios estudiantes. Dado que la mayoría de los estudiantes son jóvenes y están iniciando su vida adulta, muchos tienen ingresos mensuales bajos y aún están aprendiendo a organizarse financieramente. Por lo tanto, se propone la creación de una aplicación móvil y una aplicación web para la gestión de una república, con el objetivo de ayudar en la organización financiera y en la vida cotidiana de la misma.
 
 Apresentação / presentación: 
-
+https://docs.google.com/presentation/d/1bPMCzLA8hhw58K_jImGbTIrmgoky4f4AI8YhH6aoXQ8/edit?usp=sharing
 ---
 
 ## Acesso / Acceso
 
 Link: 
-- Link para download do apk: https://drive.google.com/drive/folders/1RQOTV4nHQ1Y81Kyx7huFdivfKP5Cr7HH
+- Link para download do apk: https://drive.google.com/drive/folders/1wxXKdYZL_dPtzSgui4XuYYVRWSteAnts
 - Link para aplicação web:  https://rep-hjgthkccgdh0auft.westus3-01.azurewebsites.net
 
 Roteiro para testes / guion para pruebas: 
-https://forms.gle/v6FDUznizvq89hZcA
+https://docs.google.com/document/d/1ozpgbALu9baODDkLD56V0tPzrEVCFp2FU7N3B_01DQg/edit?usp=sharing
 
+Formulário / Formulario:
+https://forms.gle/gdA6Kup6VwpBUDnt5
 
 ---
 
@@ -43,13 +45,19 @@ https://forms.gle/v6FDUznizvq89hZcA
 
 ##### Tecnologias / Tecnologías
 
-- Front-end: HTML, CSS, javascript, bootstrap
-- Back-end: MySQL, Django, python
-- Deploy: Microsoft Azure
+- Front-end (web): HTML, CSS, javascript, bootstrap
+- Back-end (web): MySQL, Django, python
+- Deploy (web): Microsoft Azure
+- 
+- Front-end (android): Kotlin, Retrofit
+- Back-end (android): MySQL, Node.js
+- Deploy (android): Heroku: Cloud Application Platform
 
 ##### Repositórios
 
-- repositório backend y frontend: https://github.com/menet58/proyecto-republica.git
+- repositório backend y frontend (web): https://github.com/menet58/proyecto-republica.git
+- repositório backend (android): https://github.com/FranciscoJr04/FlatFlow
+- repositório frontend (android): https://github.com/Joa0DeL1ma/Flat_Flow
 
 
 ## Equipe / Equipo
