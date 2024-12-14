@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.372032"
-image = "aguardando.png"
+image = "tour-guard.png"
 title = "TourGuard"
 weight = 10
 +++
@@ -30,10 +30,10 @@ Apresentação / presentación: preencha aqui o link para slides da apresentaç�
 ## Acesso / Acceso
 
 Link: 
-https://drive.google.com/drive/u/0/folders/1M0Uc43dEjWtQPg5bOx6ugnWzMXnnaMfG
+https://tourguard.onrender.com/
 
 Roteiro para testes / guion para pruebas: 
-preencha aqui o link para o roteiro de testes (segunda fase)
+https://docs.google.com/document/d/1cdApG_NASErAgNSM-PhvkPt0JYrQgm7uBKq_m_X1sMU/edit?usp=sharing
 
 
 ---
@@ -42,19 +42,17 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 
 ##### Tecnologias / Tecnologías
 
-- Front-end: preencha aqui as tecnologias usadas no desenvolvimento do front-end, por exemplo, JavaScript, ReactJS, HTML
-- Back-end: preencha aqui as tecnologias usadas no desenvolvimento do back-end, por exemplo: Java, Spring Boot, PostgreSQL
-- Deploy: preencha aqui os serviços usados no deploy, por exemplo: Vercel/front, AWS/back
+- Front-end: ReactJS/web, React Native/mobile
+- Back-end: AdonisJS, PostgreSQL
+- Deploy: Render/front, Heroku/back
 
 ##### Repositórios
 
-- repositório backend
-- repositório frontend
+- [Repositório backend](https://github.com/pinhalgrandense/tour-guard-api)
+- [Repositório frontend](https://github.com/Lorenzo-Weber/tour-guard-web/)
 
 ##### Outros links:
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-- preencha aqui algum link importante sobre o desenvolvimento (documento de visão, diagramas, etc.)
-
+- [Documento de visão](https://docs.google.com/document/d/15b13r4bWp9RUKOxtdpLUxmUVT940hXVtd4_jBFsNEuI/edit?usp=sharing)
 ---
 
 ## Equipe / Equipo
