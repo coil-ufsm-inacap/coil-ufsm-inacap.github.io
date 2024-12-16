@@ -2,7 +2,7 @@
 showonlyimage = false
 draft = false
 date = "2024-11-28 19:24:03.353194"
-image = "822ed1c0-41cb-44d0-8514-2e312e9e42e0.jpg"
+image = "HomeScreen.png"
 title = "Study.io"
 weight = 5
 +++
