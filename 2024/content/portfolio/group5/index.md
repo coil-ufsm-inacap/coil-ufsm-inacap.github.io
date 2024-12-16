@@ -12,7 +12,7 @@ Rede social para estudo / Red social para estudio
 
 <!--more-->
 
-![](Projeto de Software - Google Chrome 2024-12-16 10-51-44.gif)
+![](gif_projeto.gif)
 
 
 ## Descrição / Descripción
