@@ -30,7 +30,9 @@ Apresentação / presentación: preencha aqui o link para slides da apresentaç�
 ## Acesso / Acceso
 
 Link: 
-https://tourguard.onrender.com/
+https://tourguard.onrender.com/ 
+Link app movil: 
+https://drive.google.com/drive/folders/1Qy_PHVUK5YfKtu_YK73DgI35QUZJmzzK?usp=drive_link
 
 Roteiro para testes / guion para pruebas: 
 https://docs.google.com/document/d/1cdApG_NASErAgNSM-PhvkPt0JYrQgm7uBKq_m_X1sMU/edit?usp=sharing
