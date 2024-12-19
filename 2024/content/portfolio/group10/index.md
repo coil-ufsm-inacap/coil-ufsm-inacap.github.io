@@ -23,7 +23,7 @@ Sistema de Gestão de Resíduos de Mineração / Sistema de gestión de residuos
 
 🇨🇱 Una aplicación web para gestionar los residuos generados en las operaciones de minería. Permitiría a los usuarios registrar, editar y eliminar datos relacionados con los residuos y las ubicaciones. Los residuos pueden incluir información como el tipo (peligroso o no peligroso), cantidad, fecha de generación, método de disposición final y su estado (pendiente, en proceso o completado). El sistema también cuenta con una funcionalidad de autenticación simple para garantizar la seguridad en el acceso. El objetivo principal de la aplicación es apoyar a los mineros en la gestión eficiente de residuos, facilitando el control sobre la cantidad y el destino de los residuos generados durante el proceso de minería. Además, la aplicación ofrece la posibilidad de gestionar las ubicaciones donde los residuos se almacenan o se disponen, tanto como agregar nuevas ubicaciones con un sistema de mapas Leaflet integrado o editarlas.
 
-Apresentação / presentación: preencha aqui o link para slides da apresentação final do projeto
+Apresentação / presentación: https://www.canva.com/design/DAGZe5pJRbY/Ldi326CNex7UE92s61DhcA/edit?utm_content=DAGZe5pJRbY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ---
 
