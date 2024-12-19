@@ -22,8 +22,7 @@ Rede social para estudo / Red social para estudio
 
 🇨🇱 Study.io es una plataforma que permite a los usuarios compartir sus resúmenes, ejercicios y actividades de estudio a través de un feed común. Además, ofrece la posibilidad de votar y discutir sobre los contenidos publicados por otros usuarios de la plataforma. 
 
-Apresentação / presentación: preencha aqui o link para slides da apresentação final do projeto
-
+Apresentação / presentación: https://www.canva.com/design/DAGYFq7KiNY/j-0XbugXP38qUtGLI9lH3g/edit?utm_content=DAGYFq7KiNY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ---
 
 ## Acesso / Acceso
