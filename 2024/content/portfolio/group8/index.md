@@ -12,7 +12,7 @@ Sistema de serviços veterinários e de saúde para viajantes / Sistema de servi
 
 <!--more-->
 
-![](moho_follow_through2.gif)
+![](moho_follow_through3.gif)
 
 
 ## Descrição / Descripción
