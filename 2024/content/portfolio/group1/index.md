@@ -23,7 +23,7 @@ Móvil
 
 🇨🇱 Una plataforma que ayuda a los usuarios a descubrir tiendas menos conocidas en la ciudad/país donde se encuentran.
 
-Apresentação / presentación: preencha aqui o link para slides da apresentação final do projeto
+Apresentação / presentación: [Apresentação] (https://gamma.app/docs/MyGuide--jlz2dhgup0c640b)
 
 ---
 
