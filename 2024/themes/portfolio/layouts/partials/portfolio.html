@@ -12,8 +12,13 @@
                         <a href="{{ .RelPermalink }}" title="" class="box-masonry-image with-hover-overlay with-hover-icon">
                         {{ end }}
                             <!-- <img src="{{.Params.image | absURL}}" alt="" class="img-responsive"> -->
-                            <img src="{{ .RelPermalink | relURL }}{{ .Params.image }}" alt="" class="img-responsive">
-                        </a>
+                            <!-- <img src="{{ .RelPermalink | relURL }}{{ .Params.image }}" alt="" class="img-responsive"> -->
+                            {{ with .Resources.GetMatch .Params.image }}
+                              <!-- {{ $thumb := .Fit "400x300" }} -->
+                              {{ $thumb := .Resize "400x" }}
+                              <img src="{{ $thumb.RelPermalink }}" alt="" class="img-responsive" loading="lazy">
+                            {{ end }}
+                      </a>
                       {{ end }}
                       {{ if eq .Params.showonlyimage true }}
                       <div class="box-masonry-hover-text-header">
