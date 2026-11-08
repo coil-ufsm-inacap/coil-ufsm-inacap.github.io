@@ -1,10 +1,1 @@
-{{ define "main" }}<main class="col-xs-12 col-sm-8 col-md-9 content-column white-background project-page" id="main">{{
-    partial "mobile_nav_toggle.html" . }}<article class="content-column-content"><a class="back-link" href="{{ "
-            portfolio/" | relURL }}">← Projetos / Proyectos</a>
-        <p class="eyebrow">UFSM × INACAP · COIL 2026 · Grupo {{ .Params.group }}</p>
-        <h1>{{ .Title }}</h1>{{ .Content }}<nav class="project-pagination"
-            aria-label="Outros projetos / Otros proyectos">{{ with .PrevInSection }}<a href="{{ .RelPermalink }}">← {{
-                .Title }}</a>{{ end }}{{ with .NextInSection }}<a href="{{ .RelPermalink }}">{{ .Title }} →</a>{{ end }}
-        </nav>
-    </article>
-</main>{{ end }}
+{{ define "main" }}<main class="col-xs-12 col-sm-8 col-md-9 content-column white-background project-page" id="main">{{ partial "mobile_nav_toggle.html" . }}<article class="content-column-content"><a class="back-link" href="{{ "portfolio/" | relURL }}">← Projetos / Proyectos</a><p class="eyebrow">UFSM × INACAP · COIL 2026 · Grupo {{ .Params.group }}</p><h1>{{ .Title }}</h1>{{ .Content }}<nav class="project-pagination" aria-label="Outros projetos / Otros proyectos">{{ with .PrevInSection }}<a href="{{ .RelPermalink }}">← {{ .Title }}</a>{{ end }}{{ with .NextInSection }}<a href="{{ .RelPermalink }}">{{ .Title }} →</a>{{ end }}</nav></article></main>{{ end }}
