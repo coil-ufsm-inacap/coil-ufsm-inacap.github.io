@@ -1,0 +1,20 @@
+baseURL = "https://coil-ufsm-inacap.github.io/2026/"
+title = "COIL Brasil–Chile 2026"
+theme = "portfolio"
+languageCode = "pt-br"
+summaryLength = 24
+[params]
+style = "sea"
+description = "Cinco projetos de software para a sustentabilidade de pequenas e médias empresas — UFSM e INACAP, COIL 2026."
+copyright = "&copy; 2026 UFSM · INACAP"
+sidebarAbout = ["🇧🇷 Desenvolvimento web e sustentabilidade de pequenas e médias empresas.", "🇨🇱 Desarrollo web y sostenibilidad de pequeñas y medianas empresas."]
+[[params.navlinks]]
+name = "Projetos / Proyectos"
+url = "portfolio/"
+home = true
+[[params.navlinks]]
+name = "Sobre / Acerca de"
+url = "about/"
+[[params.navlinks]]
+name = "Galeria 2024 ↗"
+url = "https://coil-ufsm-inacap.github.io/2024/"

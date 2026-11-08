@@ -1,0 +1,8 @@
+<main class="col-xs-12 col-sm-8 col-md-9 content-column gallery-main" id="main">
+{{ partial "mobile_nav_toggle.html" . }}
+<header class="gallery-intro"><p class="eyebrow">UFSM × INACAP · COIL 2026</p><h1>{{ .Title }}</h1>{{ .Content }}</header>
+<div class="grid mosaic-grid">{{ range .RegularPages.ByWeight }}{{ $project := . }}
+<div class="masonry-item"><article class="box-masonry project-card">
+<a class="box-masonry-image with-hover-overlay with-hover-icon project-cover" href="{{ .RelPermalink }}">{{ with .Resources.GetMatch .Params.image }}{{ $thumb := .Resize "900x" }}<img class="img-responsive" src="{{ $thumb.RelPermalink }}" width="{{ $thumb.Width }}" height="{{ $thumb.Height }}" alt="{{ $project.Title }}" loading="lazy">{{ end }}</a>
+<div class="box-masonry-text project-card-body"><p class="eyebrow">Grupo {{ .Params.group }}</p><h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2><div class="box-masonry-description"><p>{{ .Description }}</p></div><a class="project-more" href="{{ .RelPermalink }}">Ver projeto / Ver proyecto →</a></div>
+</article></div>{{ end }}</div></main>

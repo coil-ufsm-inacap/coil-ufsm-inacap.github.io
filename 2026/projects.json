@@ -1,0 +1,154 @@
+[
+  {
+    "group": 1,
+    "name": "EcoAvanza",
+    "repo": "gabriel-maroneze-oropoc",
+    "url": "https://project3-2026b-gabriel-maroneze-oropoc.onrender.com/",
+    "br": [
+      "Gabriel Maroneze Ramos",
+      "João Daniel Wurdig Lucas"
+    ],
+    "cl": [
+      "Vicenta Dodds",
+      "Valentina García"
+    ],
+    "pt": "Diagnóstico de sustentabilidade com perfil da empresa, resultados e plano de ações.",
+    "es": "Diagnóstico de sostenibilidad con perfil de empresa, resultados y plan de acciones.",
+    "detailpt": "A aplicação reúne cadastro de empresas, questionário de diagnóstico, visualização de resultados e organização de ações de sustentabilidade. A interface combina páginas renderizadas no servidor com requisições JavaScript às rotas de dados.",
+    "detailes": "La aplicación reúne registro de empresas, cuestionario de diagnóstico, visualización de resultados y organización de acciones de sostenibilidad. La interfaz combina páginas renderizadas en el servidor con solicitudes JavaScript a las rutas de datos.",
+    "front": "HTML, CSS, JavaScript; templates Jinja2",
+    "back": "Python, FastAPI, Pydantic",
+    "db": "PostgreSQL; Psycopg",
+    "auth": "Cookie de sessão assinado / Cookie de sesión firmado (Starlette); hash Argon2 com pwdlib",
+    "deploy": "Render; Docker",
+    "evidence": [
+      "requirements.txt",
+      "app/main.py"
+    ],
+    "commit": "fb4989d12236b98b1aab2aec032fab86d1ee1196",
+    "repository": "https://github.com/elc1090/project3-2026b-gabriel-maroneze-oropoc"
+  },
+  {
+    "group": 2,
+    "name": "Verde Impulso",
+    "repo": "guigalmesh-guisdapi",
+    "url": "https://project3-2026b-guigalmesh-guisdapi.vercel.app/",
+    "br": [
+      "Guilherme Serafini Dapieve",
+      "Guilherme de Cezaro Martini"
+    ],
+    "cl": [
+      "Javiera Latín",
+      "Valeria Pastén"
+    ],
+    "pt": "Diagnóstico em quatro dimensões, gráficos de maturidade e recomendações para pequenas e médias empresas.",
+    "es": "Diagnóstico en cuatro dimensiones, gráficos de madurez y recomendaciones para pequeñas y medianas empresas.",
+    "detailpt": "O projeto organiza o diagnóstico de sustentabilidade por dimensões, apresenta resultados em gráficos e associa recomendações ao nível de maturidade da empresa. Inclui perfil empresarial, salvamento de rascunhos e conteúdo relacionado aos ODS.",
+    "detailes": "El proyecto organiza el diagnóstico de sostenibilidad por dimensiones, presenta resultados en gráficos y relaciona recomendaciones con el nivel de madurez de la empresa. Incluye perfil empresarial, guardado de borradores y contenido relacionado con los ODS.",
+    "front": "Vue, JavaScript, Vue Router, Pinia; Tailwind CSS; Chart.js; Vite",
+    "back": "Python, FastAPI, Pydantic",
+    "db": "PostgreSQL no / en Supabase",
+    "auth": "Supabase Auth (JWT); validação no backend / validación en backend; Row Level Security (RLS)",
+    "deploy": "Vercel (frontend); Supabase (dados e autenticação / datos y autenticación)",
+    "evidence": [
+      "frontend/package.json",
+      "backend/requirements.txt",
+      "frontend/src/constants/marca.js",
+      "README.md"
+    ],
+    "commit": "3d548af7925895b593da4ba8a309bd35d1dabe8d",
+    "repository": "https://github.com/elc1090/project3-2026b-guigalmesh-guisdapi"
+  },
+  {
+    "group": 3,
+    "name": "EcoSME",
+    "repo": "laulugoch-renatasfon",
+    "url": "https://empresa-frontend.onrender.com/",
+    "br": [
+      "Lauren Auth Lugoch",
+      "Renata de Souza de Fonseca"
+    ],
+    "cl": [
+      "Millaray Mundaca",
+      "Sebastián Espejo"
+    ],
+    "pt": "Diagnóstico ambiental, social e econômico, com oportunidades de melhoria e ações recomendadas.",
+    "es": "Diagnóstico ambiental, social y económico, con oportunidades de mejora y acciones recomendadas.",
+    "detailpt": "A plataforma permite cadastrar uma empresa, responder ao diagnóstico e identificar oportunidades de melhoria. A implementação descrita pela equipe utiliza nove perguntas distribuídas em três dimensões; os resultados orientam ações corretivas ou mensagens de reforço positivo.",
+    "detailes": "La plataforma permite registrar una empresa, responder al diagnóstico e identificar oportunidades de mejora. La implementación descrita por el equipo utiliza nueve preguntas distribuidas en tres dimensiones; los resultados orientan acciones correctivas o mensajes de refuerzo positivo.",
+    "front": "React, TypeScript, Vite",
+    "back": "Node.js, Express, TypeScript",
+    "db": "PostgreSQL; Prisma ORM",
+    "auth": "JWT; bcryptjs; token no / en sessionStorage; controle por empresa no backend / control por empresa en backend",
+    "deploy": "Render",
+    "evidence": [
+      "frontend/package.json",
+      "backend/package.json",
+      "backend/prisma/schema.prisma",
+      "backend/src/middleware/auth.ts",
+      "README.md"
+    ],
+    "commit": "18bd937e5d43c5bc38588845ae4b3c7fe1bc0067",
+    "repository": "https://github.com/elc1090/project3-2026b-laulugoch-renatasfon"
+  },
+  {
+    "group": 4,
+    "name": "SOSTENPYME",
+    "repo": "FranciscoCSJunior-lucas-mfs",
+    "url": "https://sostenpyme.onrender.com/",
+    "br": [
+      "Francisco das Chagas Sousa Júnior",
+      "Lucas Medeiros Figueiredo dos Santos"
+    ],
+    "cl": [
+      "Constanza Adaos",
+      "Víctor Lafuente"
+    ],
+    "pt": "Diagnóstico, rota sustentável, plano de ação e acompanhamento, com interface em espanhol e português.",
+    "es": "Diagnóstico, ruta sostenible, plan de acción y seguimiento, con interfaz en español y portugués.",
+    "detailpt": "A aplicação integra o perfil da empresa, um diagnóstico em quatro dimensões, resultados com prioridades, uma rota sustentável, plano de ação e comparação entre diagnósticos. A dimensão social distingue trabalhadores e comunidade; uma seção apresenta os 17 ODS.",
+    "detailes": "La aplicación integra el perfil de la empresa, un diagnóstico en cuatro dimensiones, resultados con prioridades, una ruta sostenible, plan de acción y comparación entre diagnósticos. La dimensión social distingue trabajadores y comunidad; una sección presenta los 17 ODS.",
+    "front": "React, TypeScript; Inertia.js; Tailwind CSS; componentes shadcn/ui e / y Radix UI; Vite",
+    "back": "PHP, Laravel 12; Eloquent ORM",
+    "db": "PostgreSQL no / en Neon (produção / producción); SQLite (desenvolvimento / desarrollo)",
+    "auth": "Sessões no servidor / Sesiones en servidor; cookies; bcrypt; CSRF; Laravel Policies",
+    "deploy": "Render; Docker; Apache",
+    "evidence": [
+      "package.json",
+      "composer.json",
+      "app/Policies/PlanActionPolicy.php",
+      "README.md"
+    ],
+    "commit": "03370970f18c9072f7027c7aa4ccfff205c35b51",
+    "repository": "https://github.com/elc1090/project3-2026b-FranciscoCSJunior-lucas-mfs"
+  },
+  {
+    "group": 5,
+    "name": "SOSTENPYME",
+    "repo": "rpklaue",
+    "url": "https://t3rafaelklaue.netlify.app/",
+    "br": [
+      "Rafael"
+    ],
+    "cl": [
+      "Matías Ramírez"
+    ],
+    "pt": "Autodiagnóstico com 16 perguntas, rota sustentável e acompanhamento de um plano de ação.",
+    "es": "Autodiagnóstico con 16 preguntas, ruta sostenible y seguimiento de un plan de acción.",
+    "detailpt": "A empresa descreve seu perfil, responde a 16 perguntas nas perspectivas econômica, social, ambiental e de governança e recebe pontuações, nível de maturidade e recomendações. O projeto inclui catálogo de recomendações, plano com responsáveis e prazos e registro de avanços.",
+    "detailes": "La empresa describe su perfil, responde a 16 preguntas en las perspectivas económica, social, ambiental y de gobernanza, y recibe puntuaciones, nivel de madurez y recomendaciones. El proyecto incluye catálogo de recomendaciones, plan con responsables y plazos y registro de avances.",
+    "front": "HTML, CSS, JavaScript (vanilla)",
+    "back": "Python, Flask; Flask-SQLAlchemy; Gunicorn",
+    "db": "MySQL; PyMySQL; SQLite (desenvolvimento / desarrollo)",
+    "auth": "JWT (PyJWT); hash de senha / contraseña (Werkzeug); revogação no logout / revocación al cerrar sesión",
+    "deploy": "Netlify (frontend); Render (backend)",
+    "evidence": [
+      "frontend/index.html",
+      "backend/requirements.txt",
+      "backend/app.py",
+      "README.md"
+    ],
+    "commit": "30e4b93efc946d68e48838ba1475dca11c7838fa",
+    "repository": "https://github.com/elc1090/project3-2026b-rpklaue"
+  }
+]

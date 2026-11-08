@@ -55,14 +55,23 @@ jobs:
           HUGO_ENVIRONMENT: production
           TZ: America/Los_Angeles
         run: |
-          cd 2024
-          hugo \
-            --gc \
-            --minify \
+          mkdir -p /tmp/path
+
+          # Keep the 2024 edition at its existing URL.
+          hugo --source 2024 \
+            --gc --minify \
             --baseURL "https://coil-ufsm-inacap.github.io/2024/"
-          cd ..
-          mkdir /tmp/path          
           cp -r 2024/public /tmp/path/2024
+
+          # Add the 2026 edition.
+          hugo --source 2026 \
+            --gc --minify \
+            --baseURL "https://coil-ufsm-inacap.github.io/2026/"
+          cp -r 2026/public /tmp/path/2026
+
+          # Stop before deployment if either edition is missing.
+          test -s /tmp/path/2024/portfolio/index.html
+          test -s /tmp/path/2026/portfolio/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
